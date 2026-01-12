@@ -1,0 +1,7 @@
+{
+  "name": "Copy of NFC Shield: Security Research Dashboard",
+  "description": "A high-fidelity cybersecurity simulation tool designed for researchers to analyze NFC/EMV vulnerabilities, simulate transaction forcing logic, and generate defensive mitigations using Gemini AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
